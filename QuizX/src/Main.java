@@ -1,0 +1,1 @@
+public class Main{    public static void trial(int x){        x = x+1;    }    public static void main(String[] args) {        int xa = 1;        trial(xa);        System.out.println();    }}
